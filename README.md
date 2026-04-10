@@ -10,7 +10,9 @@ Pipeline Flow:
 3. Spatial & Temporal Logic: Bounding box centroids (feet) are mapped against predefined polygon coordinates. Temporal states are updated per unique ID to track duration inside zones.
 4. Output Generation: Events are serialized to a structured JSON file, and annotated frames are compiled into an `.mp4` output.
 
+```Text
 [Video Source] ➔ [YOLOv8 + ByteTrack] ➔ [Point-in-Polygon Engine] ➔ [State Manager] ➔ [JSON Log & Annotated .mp4]
+```
 
 
 ## 🧠 Model Choices
