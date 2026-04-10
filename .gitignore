@@ -1,0 +1,54 @@
+.# =========================
+# Python & Backend (FastAPI)
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# =========================
+# Node & Frontend (React)
+# =========================
+node_modules/
+dist/
+build/
+.npm/
+
+# =========================
+# Data, Models, & Media
+# =========================
+# Ignore massive datasets and raw output logs
+# data/input/
+# data/output/
+# *.mp4
+# *.avi
+# *.mkv
+
+# Ignore heavy Machine Learning model weights
+*.pt
+*.pth
+*.onnx
+
+# =========================
+# Secrets & Configurations
+# =========================
+# NEVER push your database credentials or API keys!
+.env
+.env.local
+.env.development
+*.pem
+secrets.json
+
+# =========================
+# OS & Editor Files
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp

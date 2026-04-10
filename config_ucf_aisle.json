@@ -1,0 +1,28 @@
+{
+    "zones": [
+        {
+            "name": "Aisle_Center",
+            "coordinates": [
+                [
+                    200,
+                    150
+                ],
+                [
+                    450,
+                    150
+                ],
+                [
+                    550,
+                    450
+                ],
+                [
+                    100,
+                    450
+                ]
+            ],
+            "loitering_threshold_seconds": 4.0
+        }
+    ],
+    "target_fps": 30,
+    "confidence_threshold": 0.5
+}

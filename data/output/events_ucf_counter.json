@@ -1,0 +1,302 @@
+[
+    {
+        "frame_number": 1,
+        "track_id": 1,
+        "event_type": "Intrusion: Employee_Only_Area",
+        "bounding_box": [
+            134,
+            69,
+            215,
+            208
+        ],
+        "confidence": 0.8815867900848389
+    },
+    {
+        "frame_number": 1,
+        "track_id": 2,
+        "event_type": "Intrusion: Employee_Only_Area",
+        "bounding_box": [
+            248,
+            53,
+            272,
+            109
+        ],
+        "confidence": 0.8083954453468323
+    },
+    {
+        "frame_number": 1,
+        "track_id": 3,
+        "event_type": "Intrusion: Employee_Only_Area",
+        "bounding_box": [
+            178,
+            55,
+            215,
+            132
+        ],
+        "confidence": 0.7507572174072266
+    },
+    {
+        "frame_number": 35,
+        "track_id": 13,
+        "event_type": "Intrusion: Employee_Only_Area",
+        "bounding_box": [
+            142,
+            74,
+            217,
+            208
+        ],
+        "confidence": 0.3252946436405182
+    },
+    {
+        "frame_number": 77,
+        "track_id": 16,
+        "event_type": "Intrusion: Employee_Only_Area",
+        "bounding_box": [
+            269,
+            59,
+            291,
+            109
+        ],
+        "confidence": 0.320960134267807
+    },
+    {
+        "frame_number": 92,
+        "track_id": 18,
+        "event_type": "Intrusion: Employee_Only_Area",
+        "bounding_box": [
+            174,
+            189,
+            217,
+            210
+        ],
+        "confidence": 0.4521717131137848
+    },
+    {
+        "frame_number": 103,
+        "track_id": 19,
+        "event_type": "Intrusion: Employee_Only_Area",
+        "bounding_box": [
+            238,
+            57,
+            273,
+            125
+        ],
+        "confidence": 0.48298510909080505
+    },
+    {
+        "frame_number": 125,
+        "track_id": 13,
+        "event_type": "Loitering: Employee_Only_Area",
+        "bounding_box": [
+            142,
+            74,
+            225,
+            208
+        ],
+        "confidence": 0.9013957381248474
+    },
+    {
+        "frame_number": 147,
+        "track_id": 22,
+        "event_type": "Intrusion: Employee_Only_Area",
+        "bounding_box": [
+            219,
+            73,
+            268,
+            136
+        ],
+        "confidence": 0.415303498506546
+    },
+    {
+        "frame_number": 149,
+        "track_id": 23,
+        "event_type": "Intrusion: Employee_Only_Area",
+        "bounding_box": [
+            273,
+            55,
+            294,
+            104
+        ],
+        "confidence": 0.4190751016139984
+    },
+    {
+        "frame_number": 158,
+        "track_id": 23,
+        "event_type": "Intrusion: Employee_Only_Area",
+        "bounding_box": [
+            264,
+            53,
+            290,
+            102
+        ],
+        "confidence": 0.6435826420783997
+    },
+    {
+        "frame_number": 184,
+        "track_id": 34,
+        "event_type": "Intrusion: Employee_Only_Area",
+        "bounding_box": [
+            221,
+            70,
+            280,
+            131
+        ],
+        "confidence": 0.4173986613750458
+    },
+    {
+        "frame_number": 237,
+        "track_id": 22,
+        "event_type": "Loitering: Employee_Only_Area",
+        "bounding_box": [
+            210,
+            68,
+            253,
+            141
+        ],
+        "confidence": 0.8749549388885498
+    },
+    {
+        "frame_number": 237,
+        "track_id": 23,
+        "event_type": "Intrusion: Employee_Only_Area",
+        "bounding_box": [
+            164,
+            39,
+            202,
+            101
+        ],
+        "confidence": 0.2504085600376129
+    },
+    {
+        "frame_number": 502,
+        "track_id": 115,
+        "event_type": "Intrusion: Employee_Only_Area",
+        "bounding_box": [
+            151,
+            60,
+            190,
+            101
+        ],
+        "confidence": 0.38039764761924744
+    },
+    {
+        "frame_number": 528,
+        "track_id": 128,
+        "event_type": "Intrusion: Employee_Only_Area",
+        "bounding_box": [
+            149,
+            51,
+            190,
+            102
+        ],
+        "confidence": 0.3193467855453491
+    },
+    {
+        "frame_number": 531,
+        "track_id": 113,
+        "event_type": "Intrusion: Employee_Only_Area",
+        "bounding_box": [
+            115,
+            73,
+            189,
+            208
+        ],
+        "confidence": 0.8942288756370544
+    },
+    {
+        "frame_number": 621,
+        "track_id": 113,
+        "event_type": "Loitering: Employee_Only_Area",
+        "bounding_box": [
+            141,
+            70,
+            221,
+            208
+        ],
+        "confidence": 0.8841744065284729
+    },
+    {
+        "frame_number": 748,
+        "track_id": 155,
+        "event_type": "Intrusion: Employee_Only_Area",
+        "bounding_box": [
+            206,
+            67,
+            249,
+            171
+        ],
+        "confidence": 0.42521941661834717
+    },
+    {
+        "frame_number": 798,
+        "track_id": 156,
+        "event_type": "Intrusion: Employee_Only_Area",
+        "bounding_box": [
+            176,
+            54,
+            203,
+            102
+        ],
+        "confidence": 0.3700774610042572
+    },
+    {
+        "frame_number": 814,
+        "track_id": 160,
+        "event_type": "Intrusion: Employee_Only_Area",
+        "bounding_box": [
+            162,
+            53,
+            190,
+            103
+        ],
+        "confidence": 0.4055625796318054
+    },
+    {
+        "frame_number": 888,
+        "track_id": 113,
+        "event_type": "Intrusion: Employee_Only_Area",
+        "bounding_box": [
+            108,
+            70,
+            194,
+            208
+        ],
+        "confidence": 0.9042578935623169
+    },
+    {
+        "frame_number": 911,
+        "track_id": 168,
+        "event_type": "Intrusion: Employee_Only_Area",
+        "bounding_box": [
+            215,
+            85,
+            247,
+            139
+        ],
+        "confidence": 0.411142498254776
+    },
+    {
+        "frame_number": 955,
+        "track_id": 176,
+        "event_type": "Intrusion: Employee_Only_Area",
+        "bounding_box": [
+            259,
+            73,
+            293,
+            129
+        ],
+        "confidence": 0.39696669578552246
+    },
+    {
+        "frame_number": 962,
+        "track_id": 178,
+        "event_type": "Intrusion: Employee_Only_Area",
+        "bounding_box": [
+            273,
+            79,
+            319,
+            164
+        ],
+        "confidence": 0.4321574866771698
+    }
+]

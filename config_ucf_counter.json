@@ -1,0 +1,28 @@
+{
+    "zones": [
+        {
+            "name": "Employee_Only_Area",
+            "coordinates": [
+                [
+                    150,
+                    100
+                ],
+                [
+                    500,
+                    100
+                ],
+                [
+                    500,
+                    250
+                ],
+                [
+                    150,
+                    250
+                ]
+            ],
+            "loitering_threshold_seconds": 3.0
+        }
+    ],
+    "target_fps": 30,
+    "confidence_threshold": 0.5
+}

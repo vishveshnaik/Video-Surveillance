@@ -1,0 +1,602 @@
+[
+    {
+        "frame_number": 1,
+        "track_id": 16,
+        "event_type": "Intrusion: Restricted_Area_A",
+        "bounding_box": [
+            350,
+            102,
+            411,
+            277
+        ],
+        "confidence": 0.3889695107936859
+    },
+    {
+        "frame_number": 1,
+        "track_id": 22,
+        "event_type": "Intrusion: Restricted_Area_A",
+        "bounding_box": [
+            286,
+            123,
+            340,
+            286
+        ],
+        "confidence": 0.28233757615089417
+    },
+    {
+        "frame_number": 92,
+        "track_id": 121,
+        "event_type": "Intrusion: Restricted_Area_A",
+        "bounding_box": [
+            207,
+            133,
+            261,
+            281
+        ],
+        "confidence": 0.31287258863449097
+    },
+    {
+        "frame_number": 131,
+        "track_id": 150,
+        "event_type": "Intrusion: Restricted_Area_A",
+        "bounding_box": [
+            210,
+            126,
+            264,
+            276
+        ],
+        "confidence": 0.3118085265159607
+    },
+    {
+        "frame_number": 146,
+        "track_id": 166,
+        "event_type": "Intrusion: Restricted_Area_A",
+        "bounding_box": [
+            450,
+            0,
+            509,
+            186
+        ],
+        "confidence": 0.365791916847229
+    },
+    {
+        "frame_number": 151,
+        "track_id": 22,
+        "event_type": "Loitering: Restricted_Area_A",
+        "bounding_box": [
+            288,
+            122,
+            338,
+            289
+        ],
+        "confidence": 0.5010241270065308
+    },
+    {
+        "frame_number": 151,
+        "track_id": 16,
+        "event_type": "Loitering: Restricted_Area_A",
+        "bounding_box": [
+            350,
+            100,
+            412,
+            277
+        ],
+        "confidence": 0.5087386965751648
+    },
+    {
+        "frame_number": 219,
+        "track_id": 1,
+        "event_type": "Intrusion: Restricted_Area_A",
+        "bounding_box": [
+            430,
+            194,
+            500,
+            398
+        ],
+        "confidence": 0.6942135691642761
+    },
+    {
+        "frame_number": 283,
+        "track_id": 248,
+        "event_type": "Intrusion: Restricted_Area_A",
+        "bounding_box": [
+            345,
+            107,
+            401,
+            279
+        ],
+        "confidence": 0.32773736119270325
+    },
+    {
+        "frame_number": 342,
+        "track_id": 307,
+        "event_type": "Intrusion: Restricted_Area_A",
+        "bounding_box": [
+            364,
+            107,
+            427,
+            278
+        ],
+        "confidence": 0.3335241675376892
+    },
+    {
+        "frame_number": 369,
+        "track_id": 1,
+        "event_type": "Loitering: Restricted_Area_A",
+        "bounding_box": [
+            437,
+            82,
+            510,
+            269
+        ],
+        "confidence": 0.41409140825271606
+    },
+    {
+        "frame_number": 383,
+        "track_id": 345,
+        "event_type": "Intrusion: Restricted_Area_A",
+        "bounding_box": [
+            274,
+            125,
+            336,
+            290
+        ],
+        "confidence": 0.3298513889312744
+    },
+    {
+        "frame_number": 389,
+        "track_id": 365,
+        "event_type": "Intrusion: Restricted_Area_A",
+        "bounding_box": [
+            427,
+            84,
+            469,
+            250
+        ],
+        "confidence": 0.31446903944015503
+    },
+    {
+        "frame_number": 391,
+        "track_id": 369,
+        "event_type": "Intrusion: Restricted_Area_A",
+        "bounding_box": [
+            461,
+            74,
+            526,
+            257
+        ],
+        "confidence": 0.33235809206962585
+    },
+    {
+        "frame_number": 408,
+        "track_id": 369,
+        "event_type": "Intrusion: Restricted_Area_A",
+        "bounding_box": [
+            462,
+            71,
+            537,
+            262
+        ],
+        "confidence": 0.509806752204895
+    },
+    {
+        "frame_number": 425,
+        "track_id": 419,
+        "event_type": "Intrusion: Restricted_Area_A",
+        "bounding_box": [
+            209,
+            133,
+            279,
+            374
+        ],
+        "confidence": 0.35536590218544006
+    },
+    {
+        "frame_number": 451,
+        "track_id": 58,
+        "event_type": "Intrusion: Restricted_Area_A",
+        "bounding_box": [
+            444,
+            210,
+            517,
+            399
+        ],
+        "confidence": 0.8032126426696777
+    },
+    {
+        "frame_number": 461,
+        "track_id": 443,
+        "event_type": "Intrusion: Restricted_Area_A",
+        "bounding_box": [
+            271,
+            122,
+            339,
+            331
+        ],
+        "confidence": 0.4106054902076721
+    },
+    {
+        "frame_number": 481,
+        "track_id": 469,
+        "event_type": "Intrusion: Restricted_Area_A",
+        "bounding_box": [
+            437,
+            28,
+            507,
+            292
+        ],
+        "confidence": 0.40694722533226013
+    },
+    {
+        "frame_number": 486,
+        "track_id": 475,
+        "event_type": "Intrusion: Restricted_Area_A",
+        "bounding_box": [
+            412,
+            157,
+            463,
+            329
+        ],
+        "confidence": 0.3412208557128906
+    },
+    {
+        "frame_number": 492,
+        "track_id": 307,
+        "event_type": "Loitering: Restricted_Area_A",
+        "bounding_box": [
+            351,
+            101,
+            424,
+            283
+        ],
+        "confidence": 0.5562489628791809
+    },
+    {
+        "frame_number": 508,
+        "track_id": 58,
+        "event_type": "Intrusion: Restricted_Area_A",
+        "bounding_box": [
+            468,
+            148,
+            531,
+            322
+        ],
+        "confidence": 0.7795080542564392
+    },
+    {
+        "frame_number": 508,
+        "track_id": 499,
+        "event_type": "Intrusion: Restricted_Area_A",
+        "bounding_box": [
+            227,
+            107,
+            284,
+            290
+        ],
+        "confidence": 0.33646655082702637
+    },
+    {
+        "frame_number": 515,
+        "track_id": 513,
+        "event_type": "Intrusion: Restricted_Area_A",
+        "bounding_box": [
+            339,
+            101,
+            427,
+            341
+        ],
+        "confidence": 0.36847347021102905
+    },
+    {
+        "frame_number": 533,
+        "track_id": 345,
+        "event_type": "Loitering: Restricted_Area_A",
+        "bounding_box": [
+            282,
+            126,
+            341,
+            291
+        ],
+        "confidence": 0.5849048495292664
+    },
+    {
+        "frame_number": 549,
+        "track_id": 542,
+        "event_type": "Intrusion: Restricted_Area_A",
+        "bounding_box": [
+            362,
+            96,
+            416,
+            265
+        ],
+        "confidence": 0.31118589639663696
+    },
+    {
+        "frame_number": 580,
+        "track_id": 58,
+        "event_type": "Intrusion: Restricted_Area_A",
+        "bounding_box": [
+            474,
+            72,
+            525,
+            254
+        ],
+        "confidence": 0.3334367275238037
+    },
+    {
+        "frame_number": 584,
+        "track_id": 579,
+        "event_type": "Intrusion: Restricted_Area_A",
+        "bounding_box": [
+            423,
+            67,
+            471,
+            222
+        ],
+        "confidence": 0.3610073924064636
+    },
+    {
+        "frame_number": 588,
+        "track_id": 582,
+        "event_type": "Intrusion: Restricted_Area_A",
+        "bounding_box": [
+            462,
+            127,
+            513,
+            270
+        ],
+        "confidence": 0.3570775091648102
+    },
+    {
+        "frame_number": 623,
+        "track_id": 598,
+        "event_type": "Intrusion: Restricted_Area_A",
+        "bounding_box": [
+            227,
+            140,
+            284,
+            323
+        ],
+        "confidence": 0.3230299949645996
+    },
+    {
+        "frame_number": 637,
+        "track_id": 607,
+        "event_type": "Intrusion: Restricted_Area_A",
+        "bounding_box": [
+            427,
+            106,
+            466,
+            260
+        ],
+        "confidence": 0.360266774892807
+    },
+    {
+        "frame_number": 666,
+        "track_id": 549,
+        "event_type": "Intrusion: Restricted_Area_A",
+        "bounding_box": [
+            225,
+            241,
+            278,
+            398
+        ],
+        "confidence": 0.5089391469955444
+    },
+    {
+        "frame_number": 687,
+        "track_id": 549,
+        "event_type": "Intrusion: Restricted_Area_A",
+        "bounding_box": [
+            242,
+            218,
+            299,
+            399
+        ],
+        "confidence": 0.5187956690788269
+    },
+    {
+        "frame_number": 731,
+        "track_id": 579,
+        "event_type": "Intrusion: Restricted_Area_A",
+        "bounding_box": [
+            465,
+            170,
+            533,
+            350
+        ],
+        "confidence": 0.6532867550849915
+    },
+    {
+        "frame_number": 734,
+        "track_id": 651,
+        "event_type": "Intrusion: Restricted_Area_A",
+        "bounding_box": [
+            287,
+            133,
+            342,
+            249
+        ],
+        "confidence": 0.37235161662101746
+    },
+    {
+        "frame_number": 736,
+        "track_id": 654,
+        "event_type": "Intrusion: Restricted_Area_A",
+        "bounding_box": [
+            324,
+            202,
+            384,
+            375
+        ],
+        "confidence": 0.37782585620880127
+    },
+    {
+        "frame_number": 738,
+        "track_id": 579,
+        "event_type": "Intrusion: Restricted_Area_A",
+        "bounding_box": [
+            465,
+            150,
+            533,
+            355
+        ],
+        "confidence": 0.513738751411438
+    },
+    {
+        "frame_number": 755,
+        "track_id": 668,
+        "event_type": "Intrusion: Restricted_Area_A",
+        "bounding_box": [
+            446,
+            52,
+            502,
+            187
+        ],
+        "confidence": 0.31846022605895996
+    },
+    {
+        "frame_number": 777,
+        "track_id": 691,
+        "event_type": "Intrusion: Restricted_Area_A",
+        "bounding_box": [
+            406,
+            73,
+            467,
+            246
+        ],
+        "confidence": 0.33322784304618835
+    },
+    {
+        "frame_number": 784,
+        "track_id": 698,
+        "event_type": "Intrusion: Restricted_Area_A",
+        "bounding_box": [
+            325,
+            191,
+            377,
+            356
+        ],
+        "confidence": 0.36971041560173035
+    },
+    {
+        "frame_number": 787,
+        "track_id": 607,
+        "event_type": "Loitering: Restricted_Area_A",
+        "bounding_box": [
+            397,
+            232,
+            449,
+            393
+        ],
+        "confidence": 0.527550458908081
+    },
+    {
+        "frame_number": 837,
+        "track_id": 549,
+        "event_type": "Loitering: Restricted_Area_A",
+        "bounding_box": [
+            305,
+            180,
+            360,
+            357
+        ],
+        "confidence": 0.3356756269931793
+    },
+    {
+        "frame_number": 849,
+        "track_id": 753,
+        "event_type": "Intrusion: Restricted_Area_A",
+        "bounding_box": [
+            231,
+            127,
+            287,
+            294
+        ],
+        "confidence": 0.31241288781166077
+    },
+    {
+        "frame_number": 853,
+        "track_id": 759,
+        "event_type": "Intrusion: Restricted_Area_A",
+        "bounding_box": [
+            413,
+            139,
+            476,
+            306
+        ],
+        "confidence": 0.33145323395729065
+    },
+    {
+        "frame_number": 854,
+        "track_id": 668,
+        "event_type": "Intrusion: Restricted_Area_A",
+        "bounding_box": [
+            468,
+            129,
+            529,
+            302
+        ],
+        "confidence": 0.3967938721179962
+    },
+    {
+        "frame_number": 913,
+        "track_id": 668,
+        "event_type": "Intrusion: Restricted_Area_A",
+        "bounding_box": [
+            468,
+            180,
+            531,
+            382
+        ],
+        "confidence": 0.47129198908805847
+    },
+    {
+        "frame_number": 952,
+        "track_id": 804,
+        "event_type": "Intrusion: Restricted_Area_A",
+        "bounding_box": [
+            284,
+            125,
+            337,
+            289
+        ],
+        "confidence": 0.3401724100112915
+    },
+    {
+        "frame_number": 971,
+        "track_id": 817,
+        "event_type": "Intrusion: Restricted_Area_A",
+        "bounding_box": [
+            419,
+            250,
+            481,
+            392
+        ],
+        "confidence": 0.34400346875190735
+    },
+    {
+        "frame_number": 972,
+        "track_id": 825,
+        "event_type": "Intrusion: Restricted_Area_A",
+        "bounding_box": [
+            454,
+            67,
+            523,
+            241
+        ],
+        "confidence": 0.32420721650123596
+    },
+    {
+        "frame_number": 1003,
+        "track_id": 832,
+        "event_type": "Intrusion: Restricted_Area_A",
+        "bounding_box": [
+            231,
+            124,
+            286,
+            293
+        ],
+        "confidence": 0.3512527346611023
+    }
+]

@@ -1,0 +1,28 @@
+{
+    "zones": [
+        {
+            "name": "Awning_Entrance",
+            "coordinates": [
+                [
+                    850,
+                    480
+                ],
+                [
+                    1120,
+                    480
+                ],
+                [
+                    1150,
+                    650
+                ],
+                [
+                    800,
+                    650
+                ]
+            ],
+            "loitering_threshold_seconds": 3.0
+        }
+    ],
+    "target_fps": 30,
+    "confidence_threshold": 0.5
+}

@@ -1,0 +1,74 @@
+[
+    {
+        "frame_number": 1,
+        "track_id": 1,
+        "event_type": "Intrusion: Awning_Entrance",
+        "bounding_box": [
+            817,
+            452,
+            871,
+            617
+        ],
+        "confidence": 0.8570460081100464
+    },
+    {
+        "frame_number": 1,
+        "track_id": 3,
+        "event_type": "Intrusion: Awning_Entrance",
+        "bounding_box": [
+            882,
+            464,
+            940,
+            624
+        ],
+        "confidence": 0.8475197553634644
+    },
+    {
+        "frame_number": 1,
+        "track_id": 4,
+        "event_type": "Intrusion: Awning_Entrance",
+        "bounding_box": [
+            970,
+            443,
+            1044,
+            617
+        ],
+        "confidence": 0.8076766729354858
+    },
+    {
+        "frame_number": 335,
+        "track_id": 4,
+        "event_type": "Intrusion: Awning_Entrance",
+        "bounding_box": [
+            829,
+            384,
+            866,
+            509
+        ],
+        "confidence": 0.7347758412361145
+    },
+    {
+        "frame_number": 345,
+        "track_id": 139,
+        "event_type": "Intrusion: Awning_Entrance",
+        "bounding_box": [
+            830,
+            366,
+            870,
+            498
+        ],
+        "confidence": 0.793235182762146
+    },
+    {
+        "frame_number": 372,
+        "track_id": 189,
+        "event_type": "Intrusion: Awning_Entrance",
+        "bounding_box": [
+            1007,
+            362,
+            1078,
+            483
+        ],
+        "confidence": 0.3978968858718872
+    }
+]

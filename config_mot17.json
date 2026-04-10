@@ -1,0 +1,28 @@
+{
+    "zones": [
+        {
+            "name": "Restricted_Area_A",
+            "coordinates": [
+                [
+                    100,
+                    100
+                ],
+                [
+                    500,
+                    100
+                ],
+                [
+                    500,
+                    400
+                ],
+                [
+                    100,
+                    400
+                ]
+            ],
+            "loitering_threshold_seconds": 5.0
+        }
+    ],
+    "target_fps": 30,
+    "confidence_threshold": 0.5
+}
